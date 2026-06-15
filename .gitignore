@@ -1,0 +1,20 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.zip
+*.wdb
+*.wcfg
+
+# Hardware and IP folders
+.Xil/
+.ip_user_files/
+.hw/
+*.cache/
+*.sim/
+
+# LaTeX outputs (except pdf)
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
